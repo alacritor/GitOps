@@ -12,12 +12,12 @@ Short loin bresaola pastrami, sausage biltong turkey porchetta tri-tip cow fatba
 Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
 
 ## Boobie Header
-<p float="left">
+<p float="right">
 
-  <img src="img\angelina-victoria.gif" alt="Latina Booba Meats 0" width="45%" />
-  <img src="img\booba.jpg" alt="Asian Booba Meats 1" width="45%" />
-  <img src="img\boobs-tits.gif" alt="Latina Booba Meats 2" width="45%" />
+  <img src="img\angelina-victoria.gif" alt="Latina Booba Meats 0" width="55%" />
+  <img src="img\booba.jpg" alt="Asian Booba Meats 1" width="55%" />
+  <img src="img\boobs-tits.gif" alt="Latina Booba Meats 2" width="55%" />
   <img src="img\lindas-modelos.gif" alt="Latina Booba Meats 3" width="90%" />
-  <img src="img\milkers.jpg" alt="Asian Booba Meats 4" width="45%" />
+  <img src="img\milkers.jpg" alt="Asian Booba Meats 4" width="55%" />
 
 </p>
